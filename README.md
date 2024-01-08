@@ -16,13 +16,13 @@
 )
 
 
-- 👨‍💻 Developed by hamid ensafi
+- 👨‍💻 Developed by hamid amini
 
-- 📆 Created - 2023-010-11
+- 📆 Created - 2024
 
-- 🤖 Technologies Used - Html , css , js ,sass,bootstrap5
+- 🤖 Technologies Used - Html , css 
 
 - 🕵🏻‍♀️ Role - Frontend
 
-- 📫 How to reach me : with my [instagram](https://www.instagram.com/hamid.ensafi_web) and [linkedin](https://www.linkedin.com/in/hamid-ensafi-20a45721a/)
+- 📫 How to reach me : with my [instagram](https://www.instagram.com/hamidamini-fe2024) and [linkedin](https://www.linkedin.com/in/hamidamini/)
 # admin-panel
