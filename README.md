@@ -3,7 +3,7 @@
 
 <h3 align="center"> 📸 Gallery </h3>
 
-![Untitled-1](https://github.com/HamidAmini-FE/first/issues/1#issue-2070231610)
+![Untitled-1]([https://github.com/HamidAmini-FE/first/issues/1#issue-2070231610](https://github.com/HamidAmini-FE/first/issues/2#issue-2070251588))
 
 
 
