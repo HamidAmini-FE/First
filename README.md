@@ -1,7 +1,7 @@
 # first
 
 
-<h3 align="center"> 📸 Gallery </h3>
+<h3 align="center"> menu </h3>
 
 
 
@@ -21,5 +21,5 @@
 
 - 🕵🏻‍♀️ Role - Frontend
 
-- 📫 How to reach me : with my [instagram](https://www.instagram.com/hamidamini-fe2024) and [linkedin](https://www.linkedin.com/in/hamidamini/)
+- 📫 How to reach me : with my [instagram](https://www.instagram.com/hamidamini-fe2024)
 # admin-panel
